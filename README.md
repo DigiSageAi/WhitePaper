@@ -81,3 +81,7 @@ Join us on this exciting journey into intelligent finance! Together, let’s ste
 Twitter: DigiSageAI
 
 GitHub: DigiSageAI
+
+Presented with the utmost dedication by the DigiSage Development Team.
+
+Copyright © 2024 - 2025 DigiSage Development Team. All rights reserved.
